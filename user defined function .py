@@ -4,3 +4,5 @@ def siet():
   print("prarthana")
   print("kavita")
 siet()
+prarthana
+kavita
